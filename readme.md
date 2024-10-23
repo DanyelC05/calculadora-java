@@ -40,4 +40,4 @@ Danyel
 
 
 ## 📄 Licença
-Este projeto está sob a licença GNU3
+Este projeto está sob a licença GPL-3.0
