@@ -1,4 +1,4 @@
-## ??  Calculadora Java:
+## ?? Calculadora Java:
 
 Uma calculadora simples desenvolvida em Java que realiza operaçõs matemáticas básicas.
 
@@ -24,13 +24,14 @@ git clone https://github.com/DanyelC05/calculadora-java.git
 
 4. Execute o programa:
 
- java Calculadora 
+ java Calculadora```
 
-???  Tecnologias Utilizadas
+## ??? Tecnologias Utilizadas:
 Java 21
 
-?? Autor
+## ?? Autor
 Danyel
 
-?? Licença
-Este projeto está sob a licença GNU3   
+
+## ?? Licença
+Este projeto está sob a licença GNU3
