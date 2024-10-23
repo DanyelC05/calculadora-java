@@ -57,7 +57,7 @@ java --module-path "C:\\caminho\\para\\a\\pasta\\javafx-sdk-22.0.2\\lib" --add-m
 ```
 
 ## 🖥️ Requisitos:
-Java JDK 21
+Java JDK 21 <br>
 JavaFX SDK 22
 
 ## 🤝 Contribuições
