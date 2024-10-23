@@ -1,9 +1,9 @@
-package calc;
+
 import java.util.Scanner;
 
 public class Calculadora {
 	
-	//metodos operaùùes
+	//metodos opera√ß√µes
 	public double adicao(double a, double b) {
 		return a + b;
 	}
@@ -20,7 +20,7 @@ public class Calculadora {
 		if (b != 0) {
 			return a / b;
 		} else {
-			throw new IllegalArgumentException ("Nùo ù permitido divisùo por 0!"); //se a divisùo for por 0, retorna um erro
+			throw new IllegalArgumentException ("N√£o √° permitido divis√£o por 0!"); //se a divis√£o for por 0, retorna um erro
 		}
 	}
 	
@@ -29,21 +29,21 @@ public class Calculadora {
 		Calculadora calc = new Calculadora();
 		
 		System.out.println("Bem vindo a calculadora!");
-		System.out.println("Digite o primeiro nùmero: ");
+		System.out.println("Digite o primeiro n√∫mero: ");
 		double num1 = sc.nextDouble();
 		
-		System.out.println("Digite o segundo nùmero: ");
+		System.out.println("Digite o segundo n√∫mero: ");
 		double num2 = sc.nextDouble();
 		
-		System.out.println("Escolha a operaùùo: ");
-		System.out.println("1: Adiùùo");
-		System.out.println("2: Subtraùùo");
-		System.out.println("3: Multiplicaùùo");
-		System.out.println("4: Divisùo");
+		System.out.println("Escolha a opera√ß√£o: ");
+		System.out.println("1: Adi√ß√£o");
+		System.out.println("2: Subtra√ß√£o");
+		System.out.println("3: Multiplica√ß√£o");
+		System.out.println("4: Divis√£o");
 		int operacao = sc.nextInt();
 		
 		double resultado;
-        //switch para determinar a operaùùo
+        //switch para determinar a operaÔøΩÔøΩo
 		switch (operacao) {
 			case 1 :
 				resultado = calc.adicao(num1, num2);
@@ -62,7 +62,7 @@ public class Calculadora {
 				break;
 				
 			default:
-				System.out.println("Operaùùo invùlida!");
+				System.out.println("Opera√ß√£o inv√°lida!");
 				sc.close();
                 return;
 		}
