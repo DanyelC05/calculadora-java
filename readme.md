@@ -11,20 +11,19 @@ Uma calculadora simples desenvolvida em Java que realiza operaçõs matemáticas bá
 
 ## ?? Como Executar:
 
-```bash
 1. Clone este repositório:
 
-git clone https://github.com/DanyelC05/calculadora-java.git
+```git clone https://github.com/DanyelC05/calculadora-java.git```
 
 2. Navegue até o diretório do projeto:
-     cd calculadora-java 
+     ```cd calculadora-java```
 
 3. Compile o programa:
-     javac Calculadora.java
+   ```javac Calculadora.java```
 
 4. Execute o programa:
 
- java Calculadora```
+ ```java Calculadora```
 
 ## ??? Tecnologias Utilizadas:
 Java 21
