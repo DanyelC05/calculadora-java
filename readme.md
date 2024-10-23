@@ -1,29 +1,30 @@
 # Calculadora Java
 
-Uma calculadora simples desenvolvida em Java que realiza operaùùes matemùticas bùsicas.
+Uma calculadora simples desenvolvida em Java que realiza opera√ß√µes matem√°ticas b√°sicas.
 
 ## ?? Funcionalidades
 
-- Adiùùo (+)
-- Subtraùùo (-)
-- Multiplicaùùo (*)
-- Divisùo (/)
+- Adi√ß√£o (+)
+- Subtra√ß√£o (-)
+- Multiplica√ß√£o (*)
+- Divis√£o (/)
 
 ## ?? Como Executar
 
-1. Clone este repositùrio:
 ```bash
-git clone https://github.com/DanyelC05/calculadora-java.git```
+1. Clone este reposit¬ùrio:
 
-2. Navegue atù o diretùrio do projeto:
-    ``` cd calculadora-java ```
+git clone https://github.com/DanyelC05/calculadora-java.git
+
+2. Navegue at√© o diret¬ùrio do projeto:
+     cd calculadora-java
 
 3. Compile o programa:
-    ``` javac Calculadora.java ```
+     javac Calculadora.java 
 
 4. Execute o programa:
 
-``` java Calculadora ```
+ java Calculadora 
 
 ?? Tecnologias Utilizadas
 Java 21
@@ -31,5 +32,5 @@ Java 21
 ????? Autor
 Danyel
 
-?? Licenùa
-Este projeto estù sob a licenùa GNU3   
+?? Licen¬ùa
+Este projeto est¬ù sob a licen¬ùa GNU3   
