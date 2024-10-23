@@ -18,20 +18,19 @@ git clone https://github.com/DanyelC05/calculadora-java.git
 ```
 
 2. Navegue até o diretório do projeto:
-     ```bash 
-     cd calculadora-java
-     ```
+```bash 
+cd calculadora-java
+```
 
 3. Compile o programa:
-   ```bash 
-   javac Calculadora.java
-   ```
+```bash 
+javac Calculadora.java
+```
 
 4. Execute o programa:
-
- ```bash 
- java Calculadora
- ```
+```bash 
+java Calculadora
+```
 
 ## ??? Tecnologias Utilizadas:
 Java 21
